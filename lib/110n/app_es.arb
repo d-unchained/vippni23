@@ -1,0 +1,17 @@
+{
+  "@@locale": "es",
+  "title": "Carga de Producto",
+  "productNameHint": "Ingrese el nombre del producto",
+  "productDescriptionHint": "Ingrese la descripción del producto",
+  "productTypeHint": "Seleccione el tipo de producto",
+  "productPriceHint": "Ingrese el precio del producto",
+  "productQuantityHint": "Ingrese la cantidad del producto",
+  "productAvailabilityHint": "Seleccione la disponibilidad del producto",
+  "productWeightHint": "Ingrese el peso",
+  "productDimensionsHint": "Ingrese las dimensiones",
+  "productMaterialHint": "Seleccione el material",
+  "productColorHint": "Agregar un color",
+  "productTagHint": "Agregar una etiqueta",
+  "productSaved": "Producto guardado con éxito",
+  "draftSaved": "Borrador guardado con éxito"
+}

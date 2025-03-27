@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "title": "Product Upload",
+  "productNameHint": "Enter the product name",
+  "productDescriptionHint": "Enter the product description",
+  "productTypeHint": "Select the product type",
+  "productPriceHint": "Enter the product price",
+  "productQuantityHint": "Enter the product quantity",
+  "productAvailabilityHint": "Select the product availability",
+  "productWeightHint": "Enter the weight",
+  "productDimensionsHint": "Enter the dimensions",
+  "productMaterialHint": "Select the material",
+  "productColorHint": "Add a color",
+  "productTagHint": "Add a tag",
+  "productSaved": "Product saved successfully",
+  "draftSaved": "Draft saved successfully"
+}
